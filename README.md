@@ -19,6 +19,7 @@ Calculate for New Gen Co.:
 (iii) the total annual cost of financing its working capital.
 
       solution
+      
       sales : 6,8
       Cost of sales $m  : 4,34
       
