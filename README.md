@@ -18,7 +18,7 @@ Calculate for New Gen Co.:
   
 (iii) the total annual cost of financing its working capital.
 
-      solution
+      #solution
       
       sales : 6,8
       Cost of sales $m  : 4,34
@@ -48,24 +48,38 @@ Calculate for New Gen Co.:
       Total financing cost                                                             = 0,119871
   
 
-B. Old Style Co. has received a discount offer from a supplier of a raw material. Old Style Co. currently uses the economic order quantity model to determine the reorder quantity for this item of material, but the supplier has offered a price discount of 1.5% off the normal purchase price for regular orders of 67,000 units or more.
+
+
+
+B. Old Style Co. has received a discount offer from a supplier of a raw material. Old Style Co. currently uses the economic order quantity model to determine the reorder quantity for this item of material, but the supplier has offered a price discount of **1.5%** off the normal purchase price for regular orders of **67,000** units or more.
   
 The following information is relevant 
   
-Current purchase price per unit of material: $4.50 
+Current purchase price per unit of material: **$4.50**
   
-Monthly demand: 74,000 units 
+Monthly demand: **74,000 units**
   
-Ordering cost: $70 
+Ordering cost: **$70**
   
-Current annual holding cost: $0.4 per unit per year 
+Current annual holding cost: **$0.4 per unit per year** 
   
-The company estimates that if it switches to buying in quantities of 67,000 units or more, there would be a significant effect on holding costs, which would increase to $1 per unit per year.
+The company estimates that if it switches to buying in quantities of **67,000 units** or more, there would be a significant effect on holding costs, which would increase to **$1 per unit per year.**
   
 Required 
   
-(i) Calculate the total annual cost of inventory for this item of raw material if the order quantity is the economic order quantity
+(i) *Calculate the total annual cost of inventory for this item of raw material if the order quantity is the economic order quantity**
   
-(ii) Calculate whether the offer of a bulk purchase discount from the supplier should be accepted, if the aim of management is to minimise inventory costs.
+(ii) *Calculate whether the offer of a bulk purchase discount from the supplier should be accepted, if the aim of management is to minimise inventory costs.**
 
+
+# solution 
+                  0 discount     1,5 discount 
+
+Purchase price     4,50            4,43
+Cost per order       70              70
+Demand            74 000 /12: 888 000         74 000 / 12 : 888.000
+Holding cost        0,40           1,00
+Discount                           0,2
+
+EOQ
  
