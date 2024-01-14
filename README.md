@@ -32,19 +32,19 @@ Calculate for New Gen Co.:
       Average AP $M                                                                     = 0,22 mln
       
       Total current assets  : Average inventory + average ar                           = 1,85667
-      current ratio                                                                     = 1,4
+      current ratio                                                                    = 1,4
       Current liabilities                                                              = 1,32619
       
       
-      Bank overdraft    : Average AP - Current liabilites = 0,22 - 1,32619               = 1,10619
+      Bank overdraft    : Average AP - Current liabilites = 0,22 - 1,32619             = 1,10619
       
-      Net working capital = assets - liabilites  =    1,85667 - 1,32619                  = 0,530476
+      Net working capital = assets - liabilites  =    1,85667 - 1,32619                = 0,530476
       
-                              Amount      %     Cost            
-      Net working capital     0,530476 *  8%  : 0,04238
-      Overdraft               1,1061   *  7%  : 0,077433
-                                               _______+
-      Total financing cost                     : 0,119871
+                                                                       Amount      %     Cost            
+      Net working capital                                              0,530476 *  8%  = 0,04238
+      Overdraft                                                        1,1061   *  7%  = 0,077433
+                                                                                         _______+
+      Total financing cost                                                             = 0,119871
   
 
 B. Old Style Co. has received a discount offer from a supplier of a raw material. Old Style Co. currently uses the economic order quantity model to determine the reorder quantity for this item of material, but the supplier has offered a price discount of 1.5% off the normal purchase price for regular orders of 67,000 units or more.
